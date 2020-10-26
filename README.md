@@ -18,6 +18,7 @@
 
 ##### Reach Me
     [LinkedIn](https://www.linkedin.com/in/rutvik-tak-046196191/)
+    This site was built using [GitHub Pages](https://pages.github.com/)
 
 
 
