@@ -1,9 +1,23 @@
-### Hi there 👋
+## Hi there 👋,
+#### I'm Rutvik Tak
 
-<!--
-**rutvik110/rutvik110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+>Flutter Developer and always looking to try exciting things with it.
 
-Here are some ideas to get you started:
+######A little about me
+  - Flutter Developer.
+  - I do love designing ui.
+  - Calisthenic Athlete.
+  - Guys who's distracted by the knowledge present around.
+
+######Currenlty working on
+  - Mastering Flutter.
+  - Trying out different technologies with flutter.
+  - Participating Hackathons.
+
+#####Always ready to learn from you and helping others to learn.
+
+#####Reach Me
+     - [Linkedin]
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +27,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
