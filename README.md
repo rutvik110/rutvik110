@@ -17,7 +17,7 @@
 > **Always ready to learn from you and helping others to learn.**
 
 ##### Reach Me
-     - [LinkedIn](https://www.linkedin.com/in/rutvik-tak-046196191/)
+     - [ LinkedIn ](https://www.linkedin.com/in/rutvik-tak-046196191/).
 
 
 
