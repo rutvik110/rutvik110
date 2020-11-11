@@ -13,6 +13,7 @@
   - Mastering Flutter.
   - Trying out different technologies with flutter.
   - Participating Hackathons.
+  - Getting that shredded physique:)
 
 > **Always ready to learn from you and helping others to learn.**
 
