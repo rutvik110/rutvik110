@@ -7,7 +7,7 @@
   - Flutter Developer.
   - I do love designing ui.
   - Calisthenic Athlete.
-  - A guy who's distracted by the knowledge present around.
+
 
 ###### Currenlty working on
   - Mastering Flutter.
