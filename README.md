@@ -19,6 +19,7 @@
 
 ##### Reach Me
 [LinkedIn](https://www.linkedin.com/in/rutvik-tak-046196191/)
+[Twitter](https://twitter.com/TakRutvik)
 [Instagram](https://www.instagram.com/smiling_rutvik/)
     
 
