@@ -18,8 +18,8 @@
 > **Always ready to learn from you and helping others to learn.**
 
 ##### Reach Me
-[LinkedIn](https://www.linkedin.com/in/rutvik-tak-046196191/)
 [Twitter](https://twitter.com/TakRutvik)
+[LinkedIn](https://www.linkedin.com/in/rutvik-tak-046196191/)
 [Instagram](https://www.instagram.com/smiling_rutvik/)
     
 
