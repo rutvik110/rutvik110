@@ -12,7 +12,7 @@
 ###### Currenlty working on
   - Mastering Flutter.
   - Helping build better products with flutter.
-  - Working on ["Let's Talk"](https://www.notion.so/Let-s-Talk-User-Doc-e0dde8f9d3584d4da0cfd36ea7937645) my indie project to connect people. 
+  - Working on ["Let's Talk"](https://www.notion.so/Let-s-Talk-User-Doc-e0dde8f9d3584d4da0cfd36ea7937645) my indie project to connect people with each and having genuine               conversations and sharing amazing experiences.        
   - Getting that shredded physique:)
 
 > **Always ready to learn from you and helping others to learn.**
