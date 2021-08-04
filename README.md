@@ -23,5 +23,5 @@
 [Instagram](https://www.instagram.com/smiling_rutvik/)
     
 
-
+[![Rutvik's GitHub stats](https://github-readme-stats.vercel.app/api?username=rutvik110&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
