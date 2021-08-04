@@ -17,11 +17,15 @@
 
 > **Always ready to learn from you and helping others to learn.**
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rutvik110&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Rutvik's GitHub stats](https://github-readme-stats.vercel.app/api?username=rutvik110&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 ##### Reach Me
 [Twitter](https://twitter.com/TakRutvik)
 [LinkedIn](https://www.linkedin.com/in/rutvik-tak-046196191/)
 [Instagram](https://www.instagram.com/smiling_rutvik/)
     
-
-[![Rutvik's GitHub stats](https://github-readme-stats.vercel.app/api?username=rutvik110&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
