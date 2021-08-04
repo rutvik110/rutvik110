@@ -15,17 +15,17 @@
   - Working on ["Let's Talk"](https://www.notion.so/Let-s-Talk-User-Doc-e0dde8f9d3584d4da0cfd36ea7937645) my indie project to connect people with each other and having genuine         conversations and sharing amazing experiences.        
   - Getting that shredded physique:)
 
-> **Always ready to learn from you and helping others to learn.**
+> **Always ready to learn and helping others to learn.**
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rutvik110&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rutvik110&layout=compact&hide=javascript,html,css)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rutvik110)](https://github.com/anuraghazra/github-readme-stats)
+[![Rutvik's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rutvik110)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
-[![Rutvik's GitHub stats](https://github-readme-stats.vercel.app/api?username=rutvik110&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Rutvik's GitHub stats](https://github-readme-stats.vercel.app/api?username=rutvik110&theme=tokyonight&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ##### Reach Me
 [Twitter](https://twitter.com/TakRutvik)
