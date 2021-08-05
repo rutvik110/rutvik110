@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Rutvik Tak
 
-**I'm a Flutter developer. I've been working with Flutter since start of 2020. The best decision I've ever made. Working on building amazing projects with it. I'm all about understanding Flutter and trying out different tech stacks with it.**</br>**I love building challenging UIs, animations and implement good coding practices in project.**
+**I'm a 💙Flutter developer. I've been working with Flutter since start of 2020. The best decision I've ever made. Working on building amazing projects with it.**</br>**I'm all about understanding Flutter and trying out different tech stacks with it.I love building challenging UIs, animations and implement good coding practices in project.**
 
 
 
@@ -36,13 +36,10 @@
 
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@takrutvik)
 
-
-###
-
-</br>
 </br>
 
 
+### ⚙️ Github Stats
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rutvik110&layout=compact&hide=javascript,html,css)](https://github.com/anuraghazra/github-readme-stats)
@@ -53,9 +50,9 @@
 
 [![Rutvik's GitHub stats](https://github-readme-stats.vercel.app/api?username=rutvik110&theme=tokyonight&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-##### Reach Me
-[Twitter](https://twitter.com/TakRutvik)
-[LinkedIn](https://www.linkedin.com/in/rutvik-tak-046196191/)
-[Instagram](https://www.instagram.com/smiling_rutvik/)
+### 👋 Reach Me
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/TakRutvik)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rutvik-tak-046196191/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/smiling_rutvik/)
     
 
