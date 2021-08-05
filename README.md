@@ -1,21 +1,43 @@
-## Hi there 👋,
-#### I'm Rutvik Tak
+## Hi there 👋, I'm Rutvik Tak
 
-**Flutter Developer and always looking to try exciting things with it.**
-
-###### A little about me
-  - Flutter Developer.
-  - I do love designing ui.
-  - Calisthenic Athlete.
+**I'm a Flutter developer. I've been working with Flutter since start of 2020. The best decision I've ever made. Working on building amazing projects with it. I'm all about understanding Flutter and trying out different tech stacks with it.**</br>**I love building challenging UIs, animations and implement good coding practices in project.**
 
 
-###### Currenlty working on
-  - Mastering Flutter.
-  - Helping build better products with flutter.
-  - Working on ["Let's Talk"](https://www.notion.so/Let-s-Talk-User-Doc-e0dde8f9d3584d4da0cfd36ea7937645) my indie project to connect people with each other and having genuine         conversations and sharing amazing experiences.        
-  - Getting that shredded physique:)
 
-> **Always ready to learn and helping others to learn.**
+### 🧰 Toolbox
+
+#### Frameworks
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) 
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) </br>
+
+#### Backends
+![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+</br>
+#### Blockchains
+![Ethereum](https://img.shields.io/badge/Ethereum-A6A9AA?style=for-the-badge&logo=ethereum&logoColor=white)
+</br>
+#### Design
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![AdobeXd](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
+</br>
+### 📖 Ongoing OS Contributions
+
+<p>
+
+[![Flutter-Firebase-Features-Templates](https://github-readme-stats.vercel.app/api/pin/?username=rutvik110&repo=Flutter-Firebase-Features-Templates&show_owner=true)](https://github.com/rutvik110/Flutter-Firebase-Features-Templates)
+
+</p>
+
+### 💡 Indie Projects
+  Let's Talk</br>[<img src="https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fe81d6d26-d23a-4dd3-a30b-4899f358da7a%2Flets_talk.png?table=block&id=e0dde8f9-d358-4d4d-a0cf-d36ea7937645&spaceId=753c3c75-c788-421b-b759-6de577f28f56&width=3070&userId=ad3ea218-1c94-4c4a-8cbc-df7ce83e823d&cache=v2" height="100" width="100" style="border-radius:10px;">](https://www.notion.so/Let-s-Talk-User-Doc-e0dde8f9d3584d4da0cfd36ea7937645)
+</br>
+### 🖊️ Blog
+
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@takrutvik)
+
+
+###
 
 </br>
 </br>
