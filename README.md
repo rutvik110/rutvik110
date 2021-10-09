@@ -42,8 +42,7 @@
 </br>
 ### 🖊️ Blog
 
-[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@takrutvik)
-
+[[!Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@takrutvik)
 </br>
 
 
