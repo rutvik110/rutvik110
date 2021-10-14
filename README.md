@@ -47,10 +47,7 @@
 
 
 ### ⚙️ Github Stats
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rutvik110&layout=compact&hide=javascript,html,css)](https://github.com/anuraghazra/github-readme-stats)
-
+<!-- [![Top Langs](https://github-readme-stats.vercel.ap/api/top-langs/?username=rutvik110&layout=compact&hide=javascript,html,css)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!-- [![Rutvik's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rutvik110)](https://github.com/anuraghazra/github-readme-stats) -->
 
