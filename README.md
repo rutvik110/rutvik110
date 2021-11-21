@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Rutvik Tak
 
-**I'm a 💙Flutter developer. I've been working with Flutter since start of 2020. The best decision I've ever made. Working on building amazing projects with it.**</br>**I'm all about understanding Flutter and trying out different tech stacks with it.I love building challenging UIs, animations and implement good coding practices in project.**
+**I'm a 💙Flutter developer. I've been working with Flutter since start of 2020. The best decision I've ever made.**</br>**I'm all about understanding Flutter and trying out different tech stacks with it.I love building challenging UIs, animations and implement good coding practices in project.**
 
 
 
