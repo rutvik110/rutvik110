@@ -31,7 +31,7 @@
 
 <p>
 
-[![Flutter-Firebase-Features-Templates](https://github-readme-stats.vercel.app/api/pin/?username=rutvik110&repo=Flutter-Firebase-Features-Templates&show_owner=true)](https://github.com/rutvik110/Flutter-Firebase-Features-Templates)
+[![Flutter-Firebase-Features-Templates](https://github-readme-stats.vercel.app/api/pin/?username=rutvik110&repo=Flutter-Firebase-Features-Templates&show_owner=true)](https://github.com/rutvik110/Flutter-Firebase-Features-Templates) [![Flutter Animations](https://github-readme-stats.vercel.app/api/pin/?username=rutvik110&repo=Flutter-Animations&show_owner=true)](https://github.com/rutvik110/Flutter-Animations)
 
 </p>
 
