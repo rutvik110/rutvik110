@@ -6,8 +6,10 @@
 
 ### 🧰 Toolbox
 
-#### Frameworks
+#### Mobile Frameworks
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) 
+
+#### Backend Frameworks
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 #### Languages
@@ -40,8 +42,7 @@
 ### 📖 Other Ongoing OS Contributions
 
 <p>
-
-[![Flutter-Firebase-Features-Templates](https://github-readme-stats.vercel.app/api/pin/?username=rutvik110&repo=Flutter-Firebase-Features-Templates&show_owner=true)](https://github.com/rutvik110/Flutter-Firebase-Features-Templates) [![Flutter Animations](https://github-readme-stats.vercel.app/api/pin/?username=rutvik110&repo=Flutter-Animations&show_owner=true)](https://github.com/rutvik110/Flutter-Animations)
+[![Flutter Animations](https://github-readme-stats.vercel.app/api/pin/?username=rutvik110&repo=Flutter-Animations&show_owner=true)](https://github.com/rutvik110/Flutter-Animations) [![Flutter-Firebase-Features-Templates](https://github-readme-stats.vercel.app/api/pin/?username=rutvik110&repo=Flutter-Firebase-Features-Templates&show_owner=true)](https://github.com/rutvik110/Flutter-Firebase-Features-Templates) 
 
 </p>
 
