@@ -1,7 +1,11 @@
 ## Hi there 👋, I'm Rutvik Tak
 
-**I'm a 💙 Flutter Freelance developer. I've been working with Flutter since start of 2020. The best decision I've ever made.**</br>**I'm all about understanding Flutter and trying out different tech stacks with it.I love building challenging UIs, animations and implementing good coding practices.**
+**I'm a 💙 Flutter Freelance developer from India🇮🇳.**
+</br>
 
+**Been exploring Flutter for a while now and I'm all about understanding and exploring it to create cool stuff. I love building challenging UIs, animations and creating nice experiences through code.**
+
+Alongside developing cool applications, I also have 😁 keen interest in UI/UX and micro-macro interactions within apps which I always try to mix in when I’m building stuff.🧑🏽‍💻 
 
 
 ### 🧰 Toolbox
@@ -53,10 +57,12 @@
 
 ### 🖊️ Blog
 
-Breaking down the complex problems/solutions in way that others can understand is what I try to achieve by writing.
+I also like to write articles about stuff that I experiment with and things that I find interesting in app development.
 
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@takrutvik)
-</br>
+</br></br>
+[![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)](https://www.freecodecamp.org/news/author/rutvik/)
+
 
 
 <!-- ### ⚙️ Github Stats -->
