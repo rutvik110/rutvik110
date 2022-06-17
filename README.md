@@ -1,12 +1,11 @@
 ## Hi there 👋, I'm Rutvik Tak
 
-**I'm a 💙 Flutter Freelance developer from India🇮🇳.**
+**I'm a 💙 Flutter Freelance developer and a Technical writer from India🇮🇳.**
 </br>
 
 **Been exploring Flutter for a while now and I'm all about understanding and exploring it to create cool stuff. I love building challenging UIs, animations and creating nice experiences through code.**
 
-Alongside developing cool applications, I also have 😁 keen interest in UI/UX and micro-macro interactions within apps which I always try to mix in when I’m building stuff.🧑🏽‍💻 
-
+**Alongside developing cool applications, I also have 😁 keen interest in UI/UX and micro-macro interactions within apps which I always try to mix in when I’m building stuff.🧑🏽‍💻**
 
 ### 🧰 Toolbox
 
