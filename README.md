@@ -7,7 +7,7 @@
 
 **Alongside developing cool applications, I also have 😁 keen interest in UI/UX and micro-macro interactions within apps which I always try to mix in when I’m building stuff.🧑🏽‍💻**
 
-[view portfolio](https://www.notion.so/Rutvik-Tak-0f2d1ca27d2740fc9d381915a8529940)
+[View Portfolio](https://takrutvik.com/portfolio)
 
 ### 🧰 Toolbox
 
