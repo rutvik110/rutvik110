@@ -58,11 +58,11 @@
 
 ### 🖊️ Blog
 
-I also like to write articles about stuff that I experiment with and things that I find interesting in app development.
+I also write articles about Flutter development. Check out the blog here👇
+Visit Blog
 
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@takrutvik)
-</br></br>
-[![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)](https://www.freecodecamp.org/news/author/rutvik/)
+[Visit Blog ✍🏽](https://takrutvik.com/)
+
 
 
 
