@@ -7,7 +7,7 @@
 
 **Alongside developing cool applications, I also have 😁 keen interest in UI/UX and micro-macro interactions within apps which I always try to mix in when I’m building stuff.🧑🏽‍💻**
 
-[View Portfolio](https://takrutvik.com/portfolio)
+
 
 ### 🧰 Toolbox
 
@@ -73,6 +73,8 @@ Visit Blog
 
 
 <!-- [![Rutvik's GitHub stats](https://github-readme-stats.vercel.app/api?username=rutvik110&theme=tokyonight&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) -->
+
+[View Portfolio](https://takrutvik.com/portfolio)
 
 ### 👋 Reach Me
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/TakRutvik)
