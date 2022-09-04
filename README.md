@@ -39,7 +39,7 @@
 
 <p>
   
-[![flutter_audio_waveforms](https://github-readme-stats.vercel.app/api/pin/?username=rutvik110&repo=flutter_audio_waveforms&show_owner=true)](https://github.com/rutvik110/flutter_audio_waveforms)
+[![flutter_audio_waveforms](https://github-readme-stats.vercel.app/api/pin/?username=rutvik110&repo=flutter_audio_waveforms&show_owner=true)](https://github.com/rutvik110/flutter_audio_waveforms) [![flutter_audio_waveforms](https://github-readme-stats.vercel.app/api/pin/?username=rutvik110&repo=bubbles_selection&show_owner=true)](https://github.com/rutvik110/bubbles_selection)
   
 </p>
 
