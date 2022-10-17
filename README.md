@@ -61,7 +61,7 @@
 I also write articles about Flutter development. Check out the blog here👇
 Visit Blog
 
-[Visit Blog ✍🏽](https://takrutvik.com/)
+[Visit Blog ✍🏽](https://rutvik.codes/)
 
 
 
@@ -74,7 +74,7 @@ Visit Blog
 
 <!-- [![Rutvik's GitHub stats](https://github-readme-stats.vercel.app/api?username=rutvik110&theme=tokyonight&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
-[View Portfolio](https://takrutvik.com/portfolio)
+[View Portfolio](https://rutvik.codes/portfolio)
 
 ### 👋 Reach Me
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/TakRutvik)
