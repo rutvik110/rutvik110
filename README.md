@@ -5,35 +5,7 @@
 
 **Been exploring Flutter for a while now and I'm all about understanding and exploring it to create cool stuff. I love building challenging UIs, animations and creating nice experiences through code.**
 
-**Alongside developing cool applications, I also have 😁 keen interest in UI/UX and micro-macro interactions within apps which I always try to mix in when I’m building stuff.🧑🏽‍💻**
-
-
-
-### 🧰 Toolbox
-
-#### Mobile Frameworks
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) 
-
-#### Backend Frameworks
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-#### Languages
-
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) 
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-
-#### Databases
-![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-
-#### Blockchains
-![Ethereum](https://img.shields.io/badge/Ethereum-A6A9AA?style=for-the-badge&logo=ethereum&logoColor=white)
-
-#### Design
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![AdobeXd](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
-</br>
+**Alongside developing cool applications, I also have 😁 keen interest in UI/UX and micro-macro interactions within apps which I always try to mix in when I’m building stuff.🧑🏽‍💻** 
 
 ### 📦 Package Author Of
 
@@ -75,6 +47,10 @@ Visit Blog
 <!-- [![Rutvik's GitHub stats](https://github-readme-stats.vercel.app/api?username=rutvik110&theme=tokyonight&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
 [View Portfolio](https://rutvik.codes/portfolio)
+### Thanx to my sponsors supporting my creative work🧙🏻‍♂️
+<a href="https://code.pieces.app/"><image src="https://user-images.githubusercontent.com/65209850/215668639-4e7c6b07-42bd-47db-abc0-5dce0740d696.png" height=100px width=100px></a>
+
+
 
 ### 👋 Reach Me
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/TakRutvik)
