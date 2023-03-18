@@ -20,7 +20,7 @@
 
 <p>
   
-[![tGPT](https://github-readme-stats.vercel.app/api/pin/?username=rutvik110&repo=terminalgpt&show_owner=true)](https://github.com/rutvik110/terminalgpt) [![Flutter Animations](https://github-readme-stats.vercel.app/api/pin/?username=rutvik110&repo=Flutter-Animations&show_owner=true)](https://github.com/rutvik110/Flutter-Animations) [![Flutter-Firebase-Features-Templates](https://github-readme-stats.vercel.app/api/pin/?username=rutvik110&repo=Flutter-Firebase-Features-Templates&show_owner=true)](https://github.com/rutvik110/Flutter-Firebase-Features-Templates)
+[![tGPT](https://github-readme-stats.vercel.app/api/pin/?username=rutvik110&repo=tgpt&show_owner=true)](https://github.com/rutvik110/tgpt) [![Flutter Animations](https://github-readme-stats.vercel.app/api/pin/?username=rutvik110&repo=Flutter-Animations&show_owner=true)](https://github.com/rutvik110/Flutter-Animations) [![Flutter-Firebase-Features-Templates](https://github-readme-stats.vercel.app/api/pin/?username=rutvik110&repo=Flutter-Firebase-Features-Templates&show_owner=true)](https://github.com/rutvik110/Flutter-Firebase-Features-Templates)
 
 </p>
 
