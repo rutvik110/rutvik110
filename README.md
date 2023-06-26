@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Rutvik Tak
+## Hi there 👋, I'm Rutvik!
 
 **Maker of [AppShots](https://twitter.com/AppShotss) and a 💙 Flutter Freelance developer + Technical writer from India🇮🇳.**
 </br>
