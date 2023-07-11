@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Rutvik!
 
-**Maker of [AppShots](https://twitter.com/AppShotss) and a 💙 Flutter Freelance developer + Technical writer from India🇮🇳.**
+**Maker of [AppShots](https://twitter.com/AppShotss) and a 💙 Flutter freelance dev + Technical writer.**
 </br>
 
 **Been exploring Flutter for a while now and I'm all about understanding and exploring it to create cool stuff. I love building challenging UIs, animations and creating nice experiences through code.**
