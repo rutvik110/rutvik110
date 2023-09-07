@@ -1,9 +1,9 @@
 ## Hi there 👋, I'm Rutvik!
 
-**Building @[getpieces](https://pieces.app/), Maker of [AppShots](https://twitter.com/AppShotss) and a Technical writer.**
+**Building [@getpieces](https://pieces.app/), Maker of [AppShots](https://twitter.com/AppShotss) and a Technical writer.**
 </br>
 
-On my way to crafting cool things with Flutter🫶
+On my way to crafting cool things with Flutter and Dart🫶
 
 ### 📦 Package Author Of
 
