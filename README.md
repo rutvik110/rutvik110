@@ -1,11 +1,9 @@
 ## Hi there 👋, I'm Rutvik!
 
-**Maker of [AppShots](https://twitter.com/AppShotss) and a 💙 Flutter freelance dev + Technical writer.**
+**Building @[getpieces](https://pieces.app/), Maker of [AppShots](https://twitter.com/AppShotss) and a Technical writer.**
 </br>
 
-**Been exploring Flutter for a while now and I'm all about understanding and exploring it to create cool stuff. I love building challenging UIs, animations and creating nice experiences through code.**
-
-**I'm passionate abt building creative things with Flutter. Alongside that, I also have 😁 keen interest in UI/UX and micro-macro interactions within apps which I always try to mix in when I’m building stuff.🧑🏽‍💻** 
+On my way to crafting cool things with Flutter🫶
 
 ### 📦 Package Author Of
 
