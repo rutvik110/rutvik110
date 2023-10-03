@@ -44,7 +44,7 @@ Visit Blog
 
 <!-- [![Rutvik's GitHub stats](https://github-readme-stats.vercel.app/api?username=rutvik110&theme=tokyonight&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
-[View Portfolio](https://rutvik.codes/portfolio)
+
 ### Thanx to my sponsors supporting my creative work🧙🏻‍♂️
 <a href="https://code.pieces.app/"><image src="https://user-images.githubusercontent.com/65209850/215668639-4e7c6b07-42bd-47db-abc0-5dce0740d696.png" height=100px width=100px></a>
 
