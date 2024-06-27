@@ -24,7 +24,12 @@ On my way to crafting cool things with Flutter and Dart🫶
 
 ### 💡 Indie Projects
 
-[<img src="https://imgur.com/Mwli1n9.png" height="100" width="100" style="border-radius:10px;">](https://twitter.com/AppShotss) [<img src="https://play-lh.googleusercontent.com/FKTVZYYj2_F7rGbKy9mm6QP3mgfrkX0kk_Kewq594JrBQawK9GOZGW5i-boFg6fPJJc=s360-rw" height="100" width="100" style="border-radius:10px;">](https://play.google.com/store/apps/details?id=com.erapp.era) [<img src="https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fe81d6d26-d23a-4dd3-a30b-4899f358da7a%2Flets_talk.png?table=block&id=e0dde8f9-d358-4d4d-a0cf-d36ea7937645&spaceId=753c3c75-c788-421b-b759-6de577f28f56&width=3070&userId=ad3ea218-1c94-4c4a-8cbc-df7ce83e823d&cache=v2" height="100" width="100" style="border-radius:10px;">](https://www.notion.so/Let-s-Talk-User-Doc-e0dde8f9d3584d4da0cfd36ea7937645)
+[<img src="https://imgur.com/Mwli1n9.png" height="100" width="100" style="border-radius:10px;">](https://twitter.com/AppShotss) [<img src="https://play-lh.googleusercontent.com/FKTVZYYj2_F7rGbKy9mm6QP3mgfrkX0kk_Kewq594JrBQawK9GOZGW5i-boFg6fPJJc=s360-rw" height="100" width="100" style="border-radius:10px;">](https://play.google.com/store/apps/details?id=com.erapp.era) [<img src="https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fe81d6d26-d23a-4dd3-a30b-4899f358da7a%2Flets_talk.png?table=block&id=e0dde8f9-d358-4d4d-a0cf-d36ea7937645&spaceId=753c3c75-c788-421b-b759-6de577f28f56&width=3070&userId=ad3ea218-1c94-4c4a-8cbc-df7ce83e823d&cache=v2" height="100" width="100" style="border-radius:10px;">](https://www.notion.so/Let-s-Talk-User-Doc-e0dde8f9d3584d4da0cfd36ea7937645) 
+
+[ShadeSnap](https://twitter.com/ShadeSnaps)
+
+[<img src="https://github.com/rutvik110/rutvik110/assets/65209850/53dc4845-9993-4d91-8160-c7953c6650d8"  width=350px>](https://twitter.com/ShadeSnaps)
+
 
 ### 🖊️ Blog
 
