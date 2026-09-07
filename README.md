@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Rutvik!
 
-Maker of [AppShots](https://twitter.com/AppShotss) and a creative dev.**
+Maker of [AppShots](https://twitter.com/AppShotss) and a creative dev.
 </br>
 
 On my way to crafting cool things with Flutter and Dart🫶
